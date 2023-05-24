@@ -1,0 +1,20 @@
+{
+  "author": {
+    "email": "r4p0@qq.com",
+    "name": "r4p0",
+    "url": "https://r4p0.github.io/"
+  },
+  "changelogUrl": "https://r4p0.github.io/unitydevicesimulator/changelog.html",
+  "dependencies": {},
+  "description": "This package contains additional devices for the Device Simulator. Each device has a complete device definition and includes a device overlay. After you install this package, the additional devices are immediately available in the Device Simulator.",
+  "displayName": "R4P0's Device Simulator Devices",
+  "documentationUrl": "https://r4p0.github.io/unitydevicesimulator",
+  "keywords": [
+    "device-simulator",
+    "iphone14"
+  ],
+  "licensesUrl": "https://r4p0.github.io/unitydevicesimulator/licensing.html",
+  "name": "io.github.r4p0.device-simulator.devices",
+  "unity": "2022.1",
+  "version": "0.0.1"
+}
